@@ -47,6 +47,12 @@
 ![](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 
+## :woman_student: TECHNICAL STRENGTHS
+
+- 💡 Reto Internacional InnovaWorld 2021 - 2nd place with “Rotten” project
+
+- ⚡ CODING4INTEGRITY 2023 - Among the four finalists
+
 ## Github Stats and Languages
 
 <p align="center">
