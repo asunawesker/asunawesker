@@ -1,46 +1,69 @@
 # Hello World!
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/IraisValent?style=social)](https://twitter.com/IraisValent)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-IraisAguirreValente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/irais-aguirre-valente-asunawesker112/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/asunawesker?label=follow&style=social)](https://github.com/asunawesker)
-```javascript
-const asunawesker = {
-  personal_information: {
-    fullName: "Irais Aguirre Valente",
-    username: "asunawesker",
-    pronouns: "she" | "her",
-    languages: [Spanish, English], 
-    whoAmI: "I am a software engineering student at the Universidad Veracruzana"
+[![Linkedin](https://img.shields.io/badge/-IraisAguirreValente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/irais-aguirre-valente/)
+[![GitHub](https://img.shields.io/github/followers/Asunawesker?label=follow&style=social)](https://github.com/Asunawesker)
+```json
+{
+  "personal_information": {
+    "fullName": "Irais Aguirre Valente",
+    "username": "asunawesker",
+    "pronouns": "she" | "her",
+    "languages": ["Spanish", "English"], 
+    "whoAmI": "I am a fresh graduate of software engineering at the Universidad Veracruzana"
   },  
-  technical_information: {
-    code: [Java, Python, Javascript, Typescript, HTML, CSS],
-    tools: [Angular, Node, React-Native, Flask, Hibernate, Docker, Azure],
-    database: [Postgresql, Mysql]
+  "technical_information": {
+    "code": ["Java", "Python", "Dart", "TypeScript", "Ruby"],
+    "frameworks": ["Springboot", "Django", "FastAPI", "Flutter", "Angular", "Ruby on Rails"],
+    "database": ["Postgresql", "Mysql"]
   },  
-  communities: ["Microsoft Learn Student Ambassador Alpha", "IBM Student Advocate"],
-  collective: ["Girl up UV", "LGBTQ+ Bayard Rustin Collective"],  
+  "communities": ["Microsoft Learn Student Ambassador Alpha", "IBM Student Advocate"],
+  "collective": ["Girl up UV"],  
 }
 ```
 
-## 🔧 Technologies & Tools
+## 🔧 TECHNICAL STRENGTHS
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=005282)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=005282)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=005282)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=005282)
+### Programming Languages
+
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/ruby-white?style=for-the-badge&logo=ruby&logoColor=red)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=blue)
+
+### Frameworks
+
+![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![](https://img.shields.io/badge/spring%20boot-white?style=for-the-badge&logo=spring)
+![](https://img.shields.io/badge/fastapi-green?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
+
+### Frameworks
+![](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Technologies
+![](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=orange)
+![](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 
 ## Github Stats and Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asunawesker&show_icons=true&theme=radical" alt="Irais Aguirre Github Stats"></img>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asunawesker&theme=radical" alt="Irais Aguirre Github Stats"></img>
-</div>
+<p align="center">
+  <a href="https://github.com/asunawesker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asunawesker&theme=radical&border=7F3FBF&background=0D1117" alt="Asuna's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/asunawesker">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asunawesker&theme=radical" alt="Asuna's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/asunawesker"><img alt="Asuna's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=asunawesker&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/asunawesker"><img alt="Asuna's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=asunawesker&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
