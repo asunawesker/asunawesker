@@ -6,7 +6,7 @@
   "personal_information": {
     "fullName": "Irais Aguirre Valente",
     "username": "asunawesker",
-    "pronouns": "she" | "her",
+    "pronouns": ["she", "her"],
     "languages": ["Spanish", "English"], 
     "whoAmI": "I am a fresh graduate of software engineering at the Universidad Veracruzana"
   },  
